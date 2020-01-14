@@ -1,5 +1,3 @@
-# repeating_numbers
-
 ## It is a function which returns the distinct numbers contained in an array.
 
 ### Use
